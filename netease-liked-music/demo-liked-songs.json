@@ -1,0 +1,47 @@
+{
+  "total": 5,
+  "exportTime": "2025-08-08T03:38:18.752Z",
+  "userId": "demo_user",
+  "songs": [
+    {
+      "id": 1901371647,
+      "name": "孤勇者",
+      "artists": "陈奕迅",
+      "album": "孤勇者",
+      "duration": 256000,
+      "publishTime": 1636646400000
+    },
+    {
+      "id": 1974443814,
+      "name": "小城夏天",
+      "artists": "LBI利比",
+      "album": "小城夏天",
+      "duration": 205714,
+      "publishTime": 1659024000000
+    },
+    {
+      "id": 1959643421,
+      "name": "与我无关",
+      "artists": "阿冗",
+      "album": "与我无关",
+      "duration": 217142,
+      "publishTime": 1654876800000
+    },
+    {
+      "id": 1492275453,
+      "name": "起风了",
+      "artists": "买辣椒也用券",
+      "album": "起风了",
+      "duration": 325953,
+      "publishTime": 1606147200000
+    },
+    {
+      "id": 1436709403,
+      "name": "世间美好与你环环相扣",
+      "artists": "柏松",
+      "album": "世间美好与你环环相扣",
+      "duration": 191960,
+      "publishTime": 1585670400000
+    }
+  ]
+}
