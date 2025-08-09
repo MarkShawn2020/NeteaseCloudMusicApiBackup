@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:MarkShawn2020/NeteaseCloudMusicApiBackup.git
+[submodule "netease-music-api-fix"]
+	path = netease-music-api-fix
+	url = git@github.com:MisonL/netease-music-api-fix.git
